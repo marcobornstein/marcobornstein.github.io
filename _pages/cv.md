@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: null # "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, University of Maryland (expected 2024)
+* M.S. in Applied Mathematics, University of Maryland (2021)
+* B.A. in Computational & Applied Mathematics, Rice University (2019)
+* B.S. in Mechanical Engineering, Rice University (2019)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Applied ML Scientist | Alcority (2022 - Present)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant | Huang Research Group
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Doctoral Internship | Pacific Northwest National Lab
+
+<!---
   
 Skills
 ======
@@ -58,7 +52,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+-->
+
