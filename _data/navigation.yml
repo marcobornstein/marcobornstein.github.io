@@ -5,14 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Experience"
-    url: /cv/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Resume"
     url: /files/Marco_Bornstein_Resume.pdf
+
+  # - title: "Experience"
+  #  url: /cv/
 
   # - title: "Talks"
   #   url: /talks/

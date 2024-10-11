@@ -19,9 +19,7 @@ Education
 Work experience
 ======
 * Applied ML Scientist: Alcority (2022 - Present)
-
 * Graduate Research Assistant: Huang Research Group
-
 * Doctoral Internship: Pacific Northwest National Lab
 
 <!---
