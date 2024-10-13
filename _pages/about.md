@@ -21,7 +21,7 @@ I am advised by [Dr. Furong Huang](https://furong-huang.com).
   <tbody>
     <tr>
       <td>September 26th, 2024</td>
-      <td>My paper <a href='https://arxiv.org/pdf/2310.13681.pdf'> FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?</a> was accepted at NeurIPS 2024</td>
+      <td>My paper <a href='https://arxiv.org/pdf/2405.13879'> FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?</a> was accepted at NeurIPS 2024</td>
     </tr>
     <tr>
       <td>July 30th, 2024</td>
