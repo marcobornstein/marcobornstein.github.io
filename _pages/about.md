@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Marco! I'm a PhD Candidate at the University of Maryland studying Applied Mathematics.
-I am advised by [Dr. Furong Huang](https://furong-huang.com).
+Hi, my name is Marco! I graduated from the University of Maryland with a Ph.D. in Applied Mathematics.
+I was advised by [Dr. Furong Huang](https://furong-huang.com).
 
 <h2>Recent News</h2>
 <table>
@@ -19,6 +19,10 @@ I am advised by [Dr. Furong Huang](https://furong-huang.com).
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>March 14th, 2025</td>
+      <td>Successfully defended my Ph.D. Thesis: <i>Artificial Intelligence on the Edge: From Learning to Deployment</i></td>
+    </tr>
     <tr>
       <td>September 26th, 2024</td>
       <td>My paper <a href='https://arxiv.org/pdf/2405.13879'> FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?</a> was accepted at NeurIPS 2024</td>
@@ -61,7 +65,7 @@ A full list of my publications is found [here](/publications/).
     <tr>
       <td>Ph.D in Applied Mathematics</td>
       <td>University of Maryland</td>
-      <td>2019-2024 (Expected)</td>
+      <td>2019-2025</td>
     </tr>
     <tr>
       <td>M.S. in Applied Mathematics</td>
@@ -93,14 +97,14 @@ A full list of my publications is found [here](/publications/).
   </thead>
   <tbody>
     <tr>
-      <td>Graduate Research Assistant</td>
-      <td>Huang Research Lab</td>
-      <td>2020 - Present</td>
-    </tr>
-    <tr>
       <td>Applied ML Scientist</td>
       <td>Alcority</td>
       <td>2022 - Present</td>
+    </tr>
+    <tr>
+      <td>Graduate Research Assistant</td>
+      <td>Huang Research Lab</td>
+      <td>2020 - 2025</td>
     </tr>
     <tr>
       <td>Doctoral Internship</td>
