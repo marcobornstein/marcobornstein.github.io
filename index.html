@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Bornstein | Research</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .nav-link {
+            transition: color 0.3s, border-bottom-color 0.3s;
+        }
+        .nav-link.active {
+            color: #3B82F6; /* blue-500 */
+            border-bottom-color: #3B82F6;
+        }
+        .table-cell {
+            vertical-align: top;
+        }
+        .table-cell:first-child {
+            width: 150px; /* Adjust date column width */
+            font-weight: 500;
+        }
+    </style>
+</head>
+
+<body class="bg-slate-50 text-slate-800">
+
+    <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-12">
+
+        <div class="flex flex-col md:flex-row gap-8 md:gap-12">
+            <!-- Left Sidebar -->
+            <aside class="w-full md:w-1/3 flex-shrink-0">
+                <div class="sticky top-12 text-center md:text-left">
+                    <img src="assets/Headshot.jpeg" alt="Marco Bornstein" class="rounded-full w-40 h-40 mx-auto md:mx-0 object-cover shadow-lg mb-4"  onerror="this.onerror=null;this.src='https://placehold.co/160x160/E2E8F0/475569?text=MB';">
+                    <h1 class="text-3xl font-bold text-slate-900">Marco Bornstein</h1>
+                    <p class="text-slate-500 mt-1">PhD in Applied Mathematics</p>
+
+                    <div class="mt-6 flex justify-center md:justify-start space-x-4">
+                        <a href="mailto:marco.i.bornstein@gmail.com" class="text-slate-500 hover:text-blue-500 transition-colors duration-300" aria-label="Email">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+                        </a>
+                        <a href="https://github.com/marcobornstein" target="_blank" rel="noopener noreferrer" class="text-slate-500 hover:text-blue-500 transition-colors duration-300" aria-label="GitHub">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-github"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>
+                        </a>
+                    </div>
+
+                    <nav class="mt-8">
+                        <ul class="flex flex-col items-center md:items-start space-y-2">
+                            <li><a href="index.html" class="nav-link text-lg font-medium border-b-2 border-transparent pb-1 active">Home</a></li>
+                            <li><a href="publications.html" class="nav-link text-lg font-medium border-b-2 border-transparent pb-1">Publications</a></li>
+                            <li><a href="assets/Marco_Bornstein_Resume.pdf" class="nav-link text-lg font-medium border-b-2 border-transparent pb-1">Resume</a></li>
+                            <li><a href="#" class="nav-link text-lg font-medium border-b-2 border-transparent pb-1 text-slate-400 cursor-not-allowed" onclick="event.preventDefault();">Blog</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </aside>
+
+            <!-- Right Content -->
+            <main class="w-full md:w-2/3">
+                <div class="space-y-12">
+                    <div>
+                        <h2 class="text-2xl font-bold border-b pb-2 mb-4 text-slate-900">Welcome to My (Underwhelming) Webpage</h2>
+                        <p class="text-slate-600 leading-relaxed">
+                            Hi, my name is Marco! I graduated from the University of Maryland with a Ph.D. in Applied Mathematics. I was advised by <a href="https://furong-huang.com" style="color:blue">Dr. Furong Huang</a>.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h2 class="text-2xl font-bold border-b pb-2 mb-4 text-slate-900">Recent News</h2>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <table class="w-full text-left">
+                                <tbody>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">August 2025</td>
+                                        <td class="p-3 table-cell text-slate-700">Began teaching at Goucher Prison Education Partnership (GPEP), a division of Goucher College</td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">March 2025</td>
+                                        <td class="p-3 table-cell text-slate-700">Successfully defended my Ph.D. Thesis: <a href="https://drum.lib.umd.edu/items/78e42477-e4b7-44d1-82a7-7e826344d206" style="color:black">Artificial Intelligence on the Edge: From Learning to Deployment</a></td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">December 2024</td>
+                                        <td class="p-3 table-cell text-slate-700">Presented two papers (1 main conference & 1 workshop) at NeurIPS 2024!</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h2 class="text-2xl font-bold border-b pb-2 mb-4 text-slate-900">Select Publications</h2>
+                         <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <table class="w-full text-left">
+                                <tbody>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2025</td>
+                                        <td class="p-3 table-cell text-slate-700"><a href="https://arxiv.org/pdf/2410.01871" style="color:blue">Auction-Based Regulation for Artificial Intelligence</a></td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2024</td>
+                                        <td class="p-3 table-cell text-slate-700"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/803485352e61e3ebf41221e4776c9fd4-Paper-Conference.pdf" style="color:blue">FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?</a></td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2023</td>
+                                        <td class="p-3 table-cell text-slate-700"><a href="https://openreview.net/pdf?id=jh1nCir1R3d" style="color:blue">SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h2 class="text-2xl font-bold border-b pb-2 mb-4 text-slate-900">Work Experience</h2>
+                         <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <table class="w-full text-left">
+                                <tbody>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2022 - Present</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>Applied ML Scientist</strong><br>
+                                            <span class="text-sm text-slate-500">Alcority</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2020 - 2025</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>Graduate Research Assistant</strong><br>
+                                            <span class="text-sm text-slate-500">University of Maryland, Huang Research Lab</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">202 - 2023</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>Doctoral Internship</strong><br>
+                                            <span class="text-sm text-slate-500">Pacific Northwest National Lab</span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h2 class="text-2xl font-bold border-b pb-2 mb-4 text-slate-900">Education</h2>
+                        <div class="bg-white p-4 rounded-lg shadow-sm">
+                            <table class="w-full text-left">
+                                <tbody>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2019 - 2025</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>Ph.D. in Applied Mathematics</strong><br>
+                                            <span class="text-sm text-slate-500">University of Maryland</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2019 - 2021</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>M.S. in Applied Mathematics</strong><br>
+                                            <span class="text-sm text-slate-500">University of Maryland</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2015 - 2019</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>B.A. in Computational & Applied Mathematics</strong><br>
+                                            <span class="text-sm text-slate-500">Rice University</span>
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b last:border-none">
+                                        <td class="p-3 table-cell text-slate-600">2015 - 2019</td>
+                                        <td class="p-3 table-cell text-slate-700">
+                                            <strong>B.A. in Mechanical Engineering</strong><br>
+                                            <span class="text-sm text-slate-500">Rice University</span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
+
