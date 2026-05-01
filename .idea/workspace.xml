@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a0f531b-08d5-4b77-b8df-2fc24bb25a74" name="Changes" comment="add first steps at a blog for cap and trade idea" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marcobornstein&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marcobornstein/marcobornstein.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;bfe7ecf2-688e-4afc-9bbb-1a65d4848592&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jzLBc54i07VMIiwvMhR2wXOnxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/marco_bornstein/dev/marcobornstein.github.io/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/files" />
+      <recent name="$PROJECT_DIR$/_publications" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a0f531b-08d5-4b77-b8df-2fc24bb25a74" name="Changes" comment="" />
+      <created>1722384823943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722384823943</updated>
+      <workItem from="1722384824995" duration="13208000" />
+      <workItem from="1727467775754" duration="2635000" />
+      <workItem from="1727470473419" duration="1438000" />
+      <workItem from="1728509106196" duration="21497000" />
+      <workItem from="1748564014175" duration="2043000" />
+      <workItem from="1756762640131" duration="9141000" />
+      <workItem from="1756820469166" duration="2052000" />
+      <workItem from="1769650749128" duration="5238000" />
+    </task>
+    <task id="LOCAL-00001" summary="updates">
+      <option name="closed" value="true" />
+      <created>1722387730811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722387730811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add updates and change profile picture">
+      <option name="closed" value="true" />
+      <created>1727468388253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727468388254</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initialize webpage">
+      <option name="closed" value="true" />
+      <created>1728512934178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728512934178</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add conference papers into webpage">
+      <option name="closed" value="true" />
+      <created>1728514351146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728514351146</updated>
+    </task>
+    <task id="LOCAL-00005" summary="need to fix journal articles tab">
+      <option name="closed" value="true" />
+      <created>1728515711328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728515711328</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update resume and publications">
+      <option name="closed" value="true" />
+      <created>1728601656012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728601656012</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update navigation and add to about page">
+      <option name="closed" value="true" />
+      <created>1728611116715</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728611116715</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fill out about section">
+      <option name="closed" value="true" />
+      <created>1728612664823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728612664823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix link issue">
+      <option name="closed" value="true" />
+      <created>1728861742419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728861742419</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update resume and job">
+      <option name="closed" value="true" />
+      <created>1748564823091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748564823091</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Make more simple and cleaner">
+      <option name="closed" value="true" />
+      <created>1756774862401</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756774862401</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update date">
+      <option name="closed" value="true" />
+      <created>1756820482533</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756820482533</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update website for 2026">
+      <option name="closed" value="true" />
+      <created>1769653911526</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1769653911526</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add first steps at a blog for cap and trade idea">
+      <option name="closed" value="true" />
+      <created>1769654515340</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1769654515340</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <MESSAGE value="add updates and change profile picture" />
+    <MESSAGE value="initialize webpage" />
+    <MESSAGE value="add conference papers into webpage" />
+    <MESSAGE value="need to fix journal articles tab" />
+    <MESSAGE value="update resume and publications" />
+    <MESSAGE value="update navigation and add to about page" />
+    <MESSAGE value="fill out about section" />
+    <MESSAGE value="fix link issue" />
+    <MESSAGE value="Update resume and job" />
+    <MESSAGE value="Make more simple and cleaner" />
+    <MESSAGE value="Update date" />
+    <MESSAGE value="update website for 2026" />
+    <MESSAGE value="add first steps at a blog for cap and trade idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="add first steps at a blog for cap and trade idea" />
+  </component>
+</project>
